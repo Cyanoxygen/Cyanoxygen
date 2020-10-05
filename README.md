@@ -58,3 +58,6 @@ Communication languages which I am currently learning:
 所以可以这么讲，我不是那么突出。但自我贬低不是个好选择，也不能因为有两个 Contribution 就可以在众人面前炫耀。
 
 界定一个人必须是客观的，当然如果你有兴趣，可以随时发邮件联系我。
+
+
+![](https://github-readme-stats.vercel.app/api?username=Cyanoxygen&show_icons=true)

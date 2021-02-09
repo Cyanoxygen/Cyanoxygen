@@ -1,6 +1,13 @@
 " Cyanoxygen's VIM file
 " ===========================
+if has("termguicolors")
+    " fix bug for vim
+    set t_8f=[38;2;%lu;%lu;%lum
+    set t_8b=[48;2;%lu;%lu;%lum
 
+    " enable true color
+    set termguicolors
+endif
 
 "unlet skip_defaults_vim
 "source $VIMRUNTIME/defaults.vim
@@ -13,7 +20,7 @@ set mouse=a
 set viminfo='10,<100,:100,%,n~/.vim/.viminfo
 
 set number
-set termguicolors
+" set termguicolors
 
 " PlugInstaller settings
 " ===========================

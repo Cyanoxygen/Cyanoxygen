@@ -1,5 +1,5 @@
-## Hi there 👋
+## Hi, I am Cyan!
 
-[Blog](https://blog.cyanoxygen.xyz/) | [Discord](https://cykc.xyz/d) | [E-mail](mailto:cyanoxygen@aosc.io) 
+[Discord](https://cykc.xyz/d) | [E-mail](mailto:cyanoxygen@aosc.io) 
 
-Please see [README](README.1.md) for complete introduction.
+This is Cyan(oxygen, or watever you call me), currently working for Anthon Open Source Community as a maintainer. My goal is to become a Debian maintainer, and get involved in other OSS and communities!
